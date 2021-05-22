@@ -2,7 +2,7 @@
 - 👀 I’m interested in making friends with you
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...my mobile phone number 18513117717
+- 📫 How to reach me ...my phone number 18513117717
 
 <!---
 BruceLeelyc/BruceLeelyc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
